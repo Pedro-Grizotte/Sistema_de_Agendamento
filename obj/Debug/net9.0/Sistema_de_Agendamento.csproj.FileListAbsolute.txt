@@ -18,9 +18,7 @@
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/scopedcss/bundle/Sistema_de_Agendamento.styles.css
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/scopedcss/projectbundle/Sistema_de_Agendamento.bundle.scp.css
-/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-5jxrqg3c4c.gz
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/bjwphxtlx1-61n19gt1b8.gz
-/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/i2mernch3g-fr7q2aak1r.gz
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/9opg5lwnzd-bqjiyaj88i.gz
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/hb9rqf0ghi-c2jlpeoesf.gz
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/sebv20412z-erw9l3u2r3.gz
@@ -96,3 +94,5 @@
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/Sistema_de_Agendamento.pdb
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/Sistema_de_Agendamento.genruntimeconfig.cache
 /Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/ref/Sistema_de_Agendamento.dll
+/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-jj31ew0gof.gz
+/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/i2mernch3g-1fc3gg6ufr.gz
