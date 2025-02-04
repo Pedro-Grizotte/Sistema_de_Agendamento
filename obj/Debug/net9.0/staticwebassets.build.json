@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E/Z1Cbsof9VF8CuIdCr1vCxaQapA0cGu1H10ZAGZb3I=",
+  "Hash": "WgUGwv8XOy7i1aVa4NnZTeM7S1BGk15+nAH/sMaBruU=",
   "Source": "Sistema_de_Agendamento",
   "BasePath": "_content/Sistema_de_Agendamento",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-jj31ew0gof.gz",
+      "Identity": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-94txke9tc9.gz",
       "SourceId": "Sistema_de_Agendamento",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Sistema_de_Agendamento",
-      "RelativePath": "css/site#[.{fingerprint=jj31ew0gof}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=94txke9tc9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lfby742wuk",
-      "Integrity": "YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8=",
+      "Fingerprint": "jmneixgdgi",
+      "Integrity": "GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/wwwroot/css/site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jj31ew0gof",
-      "Integrity": "LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y=",
+      "Fingerprint": "94txke9tc9",
+      "Integrity": "qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-jj31ew0gof.gz",
+      "Route": "css/site.94txke9tc9.css",
+      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-94txke9tc9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000859845228"
+          "Quality": "0.000907441016"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1162"
+          "Value": "1101"
         },
         {
           "Name": "ETag",
-          "Value": "\"YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8=\""
+          "Value": "\"GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:03:54 GMT"
+          "Value": "Mon, 03 Feb 2025 19:44:15 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,18 +2772,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y=\""
+          "Value": "W/\"qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "94txke9tc9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y="
+          "Value": "sha256-qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.94txke9tc9.css",
       "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2793,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4429"
+          "Value": "4347"
         },
         {
           "Name": "Content-Type",
@@ -2801,121 +2809,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y=\""
+          "Value": "\"qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:03:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-jj31ew0gof.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:03:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.jj31ew0gof.css",
-      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-jj31ew0gof.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000859845228"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1162"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:03:54 GMT"
+          "Value": "Mon, 03 Feb 2025 19:44:15 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jj31ew0gof"
+          "Value": "94txke9tc9"
         },
         {
           "Name": "label",
@@ -2923,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y="
+          "Value": "sha256-qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA="
         }
       ]
     },
     {
-      "Route": "css/site.jj31ew0gof.css",
-      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/wwwroot/css/site.css",
+      "Route": "css/site.94txke9tc9.css.gz",
+      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-94txke9tc9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2938,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4429"
+          "Value": "1101"
         },
         {
           "Name": "Content-Type",
@@ -2946,56 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y=\""
+          "Value": "\"GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:03:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jj31ew0gof"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LxZ0yGit94ooENVBC1GERz7Rhrf9aaL5fpQov7rb37Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.jj31ew0gof.css.gz",
-      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-jj31ew0gof.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:03:54 GMT"
+          "Value": "Mon, 03 Feb 2025 19:44:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jj31ew0gof"
+          "Value": "94txke9tc9"
         },
         {
           "Name": "label",
@@ -3021,7 +2884,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YYX6tjeENZFCagFKe31tG5/AAExIOE2nKorXeMzTuA8="
+          "Value": "sha256-GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-94txke9tc9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000907441016"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1101"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 19:44:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 19:44:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qW3Cr28uwQhCV2dGwP2z1Y79lTO7NcUVSjHD6LLmvZA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/pedrogrizotte/Documents/VS Code Projects/C# - Projects/Sistema_de_Agendamento/obj/Debug/net9.0/compressed/139fadxyvh-94txke9tc9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 19:44:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyXZBPveTh9tB68T4voQv7ok2bAZgbksedE+0Ze1a8E="
         }
       ]
     },

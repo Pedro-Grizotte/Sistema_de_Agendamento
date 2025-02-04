@@ -77,7 +77,6 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  /* background: url(./Images/Background.png) no-repeat; Precisa de correção */
   background-size: contain;
   background-position: center;
 }
@@ -92,8 +91,8 @@ body {
   box-shadow: 0 0 30px rgba(0, 0, 0, .5);
   display: flex;
   justify-content: center;
-  align-items: center;
   overflow: hidden;
+  align-items: center;
   transform: scale(0);
   transition: transform .5s ease, height .2s ease;
 }
