@@ -1,6 +1,3 @@
-using Microsoft.EntityFrameworkCore;
-using Sistema_de_Agendamento.Data;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
