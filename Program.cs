@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Sistema_de_Agendamento.Data;
+using Microsoft.AspNetCore;
+using MySql.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+ConfigurationManager configuration = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ProgramDbContext>(options =>
+    options.UseMySql(configuration.GetConnectionString("DefaultConnection"),
+    new MySqlServerVersion(new Version(8, 0, 21))));
 
 var app = builder.Build();
 

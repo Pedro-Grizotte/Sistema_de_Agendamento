@@ -13,7 +13,18 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    [HttpPost]
+    public IActionResult Register(User_register user)
+    {
+        return View();
+    }
+
     public IActionResult Index()
+    {
+        return View();
+    }
+
+    public IActionResult Client()
     {
         return View();
     }
